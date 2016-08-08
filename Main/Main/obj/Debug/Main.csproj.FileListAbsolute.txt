@@ -1,0 +1,14 @@
+D:\2016study\excel_handle\Main\Main\bin\Debug\Main.exe
+D:\2016study\excel_handle\Main\Main\bin\Debug\Main.pdb
+D:\2016study\excel_handle\Main\Main\obj\Debug\Main.MainForm.resources
+D:\2016study\excel_handle\Main\Main\obj\Debug\Main.Properties.Resources.resources
+D:\2016study\excel_handle\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\2016study\excel_handle\Main\Main\obj\Debug\Main.exe
+D:\2016study\excel_handle\Main\Main\obj\Debug\Main.pdb
+D:\2016study\excel_handle\Main\Main\bin\Debug\HtmlAgilityPack.dll
+D:\2016study\excel_handle\Main\Main\bin\Debug\HtmlAgilityPack.pdb
+D:\2016study\excel_handle\Main\Main\bin\Debug\HtmlAgilityPack.xml
+D:\2016study\excel_handle\Main\Main\bin\Debug\Main.exe.config
+D:\2016study\excel_handle\Main\Main\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\2016study\excel_handle\Main\Main\bin\Debug\NPOI.dll
+D:\2016study\excel_handle\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
